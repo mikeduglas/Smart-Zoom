@@ -12,6 +12,7 @@ Optionally it may display percent value of zoom factor, and reset to defaults.
 ## Requirements  
 - C6.3 and newer; old Clarion versions have not tested, but probably will work as well.
 - Both ABC and Clarion template chains.
+- No black boxes: only Clarion source files and templates.
 
 ## How to enable Smart Zoom in your application
 Add Smart Zoom global extension, and that's all! All your windows now support zooming for lists and texts.
