@@ -2,9 +2,12 @@
 
 Smart Zoom template enables web browser-like zoom feature in your applications, that is, the combination "Ctrl + Mouse wheel" zooms in and out any LIST or TEXT.  
 Optionally it may display percent value of zoom factor, and reset to defaults.  
-  
+
 **For LIST control Smart Zoom cares about column widths and row heights, and correctly handles styles applied to the list.**
 
+In version 1.01:
+- Ctrl-0 resets active control's zoom
+- The template allows to save/restore zoom level
 
 ## Price
 - 30 USD
