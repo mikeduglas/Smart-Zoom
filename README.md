@@ -26,7 +26,7 @@ Add Smart Zoom global extension, and that's all! All your windows now support zo
 ## Demo application SCHOOL
 - Hit the 'Clone or Download' button and select 'Download Zip'
 - Unzip zip file into a temporary folder somewhere
-- Run School.exe, choose any item from "Tree" or "Browse" menu, and play with zooming via Ctrl-Mouse wheel.  
+- Run School.exe, choose any item from "Tree" or "Browse" menu, and play with zooming via Ctrl-Mouse wheel, Ctrl-Plus, Ctrl-Minus, Ctrl-0.  
 "Students" browse also displays zoom factor indicator and a button to reset.  
 In this app there is only one TEXT control - Browse|Courses|Change, you can see how Smart Zoom works with texts there.
 
