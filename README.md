@@ -16,7 +16,7 @@ In version 1.01:
 - 30 USD
 
 ## Requirements  
-- C6.3 and newer; old Clarion versions have not tested, but probably will work as well.
+- C5.5 and newer; old Clarion versions have not tested, but probably will work as well.
 - Both ABC and Clarion template chains.
 - No black boxes: only Clarion source files and templates.
 
