@@ -5,16 +5,9 @@ Optionally it may display percent value of zoom factor, and reset to defaults.
 
 **For LIST control Smart Zoom cares about column widths and row heights, and correctly handles styles applied to the list.**
 
-In version 1.02:
-- Ctrl-Plus/Ctrl-Minus zoom in and out
-
-In version 1.01:
-- Ctrl-0 resets active control's zoom
-- The template allows to save/restore zoom level
-
 ## Price
 - 30 USD
-
+[PayPal](https://www.paypal.me/mikeduglas?ppid=PPC000628&cnac=RU&rsta=ru_RU(ru_RU)&cust=8W29QJ6GKY9HS&unptid=75f96da6-24a4-11e9-ae2c-441ea14e9560&t=&cal=ff0291196b3f5&calc=ff0291196b3f5&calf=ff0291196b3f5&unp_tpcid=ppme-social-user-profile-created&page=main:email&pgrp=main:email&e=op&mchn=em&s=ci&mail=sys)
 
 ## Requirements  
 - C5.5 and newer; old Clarion versions have not tested, but probably will work as well.
