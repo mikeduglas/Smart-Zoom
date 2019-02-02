@@ -1,0 +1,9 @@
+v1.00 02.12.2018: initial release
+v1.01 05.12.2018: Ctrl-0 resets active control’s zoom;
+       The template allows to save/restore zoom level.
+v1.02 08.12.2018: keyboard support: Ctrl-0/Ctrl-Plus/Ctrl-Minus.
+v1.03 16.12.2018: C55 support.
+v1.04 18.01.2019: fixed for C11 legacy.
+v1.05 19.01.2019: disabled Smart Zoom for TEXT with RTF attribute.
+v1.06 01.02.2019: allowed to disable on procedure level;
+	fixed Enable() method.
