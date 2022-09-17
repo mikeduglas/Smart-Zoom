@@ -5,9 +5,6 @@ Optionally it may display percent value of zoom factor, and reset to defaults.
 
 **For LIST control Smart Zoom cares about column widths and row heights, and correctly handles styles applied to the list.**
 
-## Price
-- 50 USD  
-
 ## Requirements  
 - C5.5 and newer; old Clarion versions have not tested, but probably will work as well.
 - Both ABC and Clarion template chains.
@@ -26,3 +23,6 @@ In this app there is only one TEXT control - Browse|Courses|Change, you can see 
 ## Contacts
 - <mikeduglas@yandex.ru>
 - <mikeduglas66@gmail.com>
+
+
+[Buy now](https://www.clarionshop.com/checkout.cfm?pid=1649&q=1&)
